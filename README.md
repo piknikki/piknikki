@@ -6,7 +6,7 @@ I'm currently working on learning Vue and Bulma, and am open to pretty much any 
 
 📫 How to reach me: nikkipetersen.dev@gmail.com
 
-⚡ Fun fact: I once made a gingerbread deathstar -- totally hollow and 100% edible, including the lazer!
+⚡ Fun fact: I once made a gingerbread Deathstar -- totally hollow and 100% edible, including the laser!
 
 <!--
 **piknikki/piknikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
