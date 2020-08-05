@@ -1,6 +1,6 @@
 ### Hey Nerds! 👋 🤪  
 
-![my logo](/logo.png width=100)
+![my logo](/logo.png | width=100)
 
 I'm Nikki and I'm a Frontend Engineer, developer, and general nerd. I like to create things. Cool things. So if you know of something wicked cool, send it my way!
 
