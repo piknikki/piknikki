@@ -11,7 +11,7 @@ I'm currently working on learning Vue and Bulma, and am open to pretty much any 
 ⚡ Fun fact: I once made a gingerbread Deathstar -- totally hollow and 100% edible, including the laser!
 
 
-
+[![HitCount](http://hits.dwyl.com/piknikki/piknikki.svg)](http://hits.dwyl.com/piknikki/piknikki)
 <!--
 **piknikki/piknikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
