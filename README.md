@@ -10,10 +10,10 @@ I'm currently working on learning Vue and Bulma, and am open to pretty much any 
 
 ⚡ Fun fact: I once made a gingerbread Deathstar -- totally hollow and 100% edible, including the laser!
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 
-[![HitCount](http://hits.dwyl.com/piknikki/piknikki.svg)](http://hits.dwyl.com/piknikki/piknikki)
+[![HitCount](http://hits.dwyl.com/piknikki/piknikki.svg?style=flat)](http://hits.dwyl.com/piknikki/piknikki)
 <!--
 **piknikki/piknikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
