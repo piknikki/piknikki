@@ -4,7 +4,7 @@
 
 I'm Nikki and I'm a Software Engineer (front end), developer, and general nerd. I like to create things. Cool things. So if you know of something wicked cool, send it my way!
 
-I'm currently working on learning Vue and Bulma, and am open to pretty much any collaboration on sweet projects. HMI.
+I'm currently working on learning Vue and Bulma, and am open to pretty much any collaboration on sweet projects. HMU.
 
 📫 How to reach me: nikkipetersen.dev@gmail.com
 
