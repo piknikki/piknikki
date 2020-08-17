@@ -12,7 +12,7 @@ I'm currently working on learning Vue and Bulma, and am open to pretty much any 
 
 [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-[![HitCount](http://hits.dwyl.com/piknikki/piknikki.svg?style=flat)](http://hits.dwyl.com/piknikki/piknikki)]
+[![HitCount](http://hits.dwyl.com/piknikki/piknikki.svg?style=flat)](http://hits.dwyl.com/piknikki/piknikki)
 
 
 <!--
