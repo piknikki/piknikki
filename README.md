@@ -4,20 +4,13 @@
 
 I'm Nikki and I'm a Software Engineer (front end), developer, and general nerd. I like to create things. Cool things. So if you know of something wicked cool, send it my way!
 
-I'm currently working on learning Vue and Bulma, and am open to pretty much any collaboration on sweet projects. HMU.
-
-📫 How to reach me: nikkipetersen.dev@gmail.com
+🦄 How to reach me: nikkipetersen.dev@gmail.com
 
 ⚡ Fun fact: I once made a gingerbread Deathstar -- totally hollow and 100% edible, including the laser!
-
-[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-
 
 
 
 <!--
-
-[![HitCount](http://hits.dwyl.com/piknikki/piknikki.github.io.svg?style=flat)](http://hits.dwyl.com/piknikki/piknikki.github.io)
 
 **piknikki/piknikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
