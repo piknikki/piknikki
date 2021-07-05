@@ -4,6 +4,8 @@
 
 I'm Nikki and I'm a Software Engineer (front end), developer, and general nerd. I like to create things. Cool things. So if you know of something wicked cool, send it my way!
 
+The best way to see my work displayed is to go to my website: [https://nikkipetersen.dev](https://nikkipetersen.dev)
+
 🦄 How to reach me: nikkipetersen.dev@gmail.com
 
 ⚡ Fun fact: I once made a gingerbread Deathstar -- totally hollow and 100% edible, including the laser!
